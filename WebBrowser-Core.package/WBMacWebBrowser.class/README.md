@@ -1,0 +1,1 @@
+Provides native access to the web browser on Mac. Do not use directly, use class WebBrowser instead.

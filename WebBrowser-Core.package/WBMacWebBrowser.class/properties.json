@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WebBrowser",
+	"category" : "WebBrowser-Core-OS-Mac",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "WBMacWebBrowser",
+	"type" : "normal"
+}
